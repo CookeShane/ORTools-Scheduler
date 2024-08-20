@@ -1,0 +1,57 @@
+Day,Day Name,Shift
+0,Monday,--
+1,Tuesday,--
+2,Wednesday,--
+3,Thursday,--
+4,Friday,ED Day 01
+5,Saturday,--
+6,Sunday,ED Day 01
+7,Monday,--
+8,Tuesday,ED Day 02
+9,Wednesday,--
+10,Thursday,--
+11,Friday,--
+12,Saturday,--
+13,Sunday,--
+14,Monday,--
+15,Tuesday,ED Day 01
+16,Wednesday,--
+17,Thursday,--
+18,Friday,--
+19,Saturday,--
+20,Sunday,--
+21,Monday,ED Nights
+22,Tuesday,ED Nights
+23,Wednesday,ED Nights
+24,Thursday,Rest Day
+25,Friday,Rest Day
+26,Saturday,ED Day 02
+27,Sunday,--
+28,Monday,--
+29,Tuesday,ED Day 02
+30,Wednesday,--
+31,Thursday,ED Day 01
+32,Friday,--
+33,Saturday,ED Day 01
+34,Sunday,--
+35,Monday,ED Day 02
+36,Tuesday,--
+37,Wednesday,ED Day 01
+38,Thursday,--
+39,Friday,--
+40,Saturday,--
+41,Sunday,--
+42,Monday,--
+43,Tuesday,--
+44,Wednesday,--
+45,Thursday,ED Nights
+46,Friday,ED Nights
+47,Saturday,ED Nights
+48,Sunday,ED Nights
+49,Monday,Rest Day
+50,Tuesday,Rest Day
+51,Wednesday,--
+52,Thursday,--
+53,Friday,--
+54,Saturday,--
+55,Sunday,--
