@@ -1,4 +1,4 @@
-# MedModus Nurse Scheduler Part 02
+# Nurse Scheduler using Google's OR Tools
 
 **Author:** Shane Cooke
 
